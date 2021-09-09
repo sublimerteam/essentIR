@@ -1,7 +1,5 @@
 
-## Self-supervised Information Retrieval from Paper Bibliography of CORD19 based on a Light-Weight Transformer Model
-
-### Goal
+### Abstract
 The literature on coronaviruses counts more than 300000 publications.
 Finding relevant papers concerning arbitrary queries is essential to the discovery of new potentially helpful knowledge. 
 Current best information retrieval solutions use deep learning approaches and need supervised train sets with labeled data, namely to know a priori the queries and the relevant papers for each of them.
