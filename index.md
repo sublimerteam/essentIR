@@ -1,4 +1,3 @@
-# SUBLIMER
 
 ## Self-supervised Information Retrieval from Paper Bibliography of CORD19 based on a Light-Weight Transformer Model
 
@@ -26,5 +25,7 @@ SUBLIMER reaches equivalent results to the state-of-the-art on CORD19, which, di
 ### Support or Contact
 
 The team is composed by: 
-* Dr. Lorenzo Valgimigli (PHD) (lorenzo.valgimigli@unibo.it) 
+* Dr. Lorenzo Valgimigli (PHD) (lorenzo.valgimigli@unibo.it)
 * Prof. Gianluca Moro (PHD) (gianluca.moro@unibo.it)
+
+_Department of Computer Science and Engineering, University of Unibo, Campus of Cesena._
