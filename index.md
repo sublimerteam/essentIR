@@ -23,7 +23,7 @@ SUBLIMER reaches equivalent results to the state-of-the-art on CORD19, which, di
 ### Support or Contact
 
 The team is composed by: 
-* Dr. Lorenzo Valgimigli (PHD) (lorenzo.valgimigli@unibo.it)
-* Prof. Gianluca Moro (PHD) (gianluca.moro@unibo.it)
+* Dr. Lorenzo Valgimigli (Ph.D. Student ) (lorenzo.valgimigli@unibo.it)
+* Prof. Gianluca Moro (Ph.D.) (gianluca.moro@unibo.it)
 
-_Department of Computer Science and Engineering, University of Unibo, Campus of Cesena._
+_Department of Computer Science and Engineering, University of Bologna, Campus of Cesena._
