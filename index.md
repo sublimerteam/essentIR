@@ -5,18 +5,18 @@ Finding relevant papers concerning arbitrary queries is essential to the discove
 Current best information retrieval solutions use deep learning approaches and need supervised train sets with labeled data, namely to know a priori the queries and the relevant papers for each of them.
 Creating such labeled datasets is time-expensive and requires prominent experts' efforts, resources
 insufficiently available under a pandemic time pressure. 
-We present a new self-supervised solution, called SUBLIMER, 
+We present a new self-supervised solution, called EssentIR, 
 that does not require labels to learn to search on corpora of scientific papers for most relevant against arbitrary queries.
-SUBLIMER is a novel light-weight IR engine trained on the 
+EssentIR is a novel light-weight IR engine trained on the 
 unsupervised COVID-19 Open Research Dataset (CORD19),
 using deep metric learning. 
 The core point of our self-supervised approach is that it uses no labels but exploits the bibliography citations from papers to create a latent space where spatial proximity is a metric of semantic similarity; for this reason, it can also be applied to other domains of papers corpora. 
-SUBLIMER reaches equivalent results to the state-of-the-art on CORD19, which, differently from our approach, require both labeled datasets and several trainable parameters that is an order of magnitude higher than ours.
+EssentIR reaches equivalent results to the state-of-the-art on CORD19, which, differently from our approach, require both labeled datasets and several trainable parameters that is an order of magnitude higher than ours.
 
 
 ### WebApp
 
-[Sublimer Web Application](http://137.204.107.153:37339/) 
+[EssentIR Web Application](http://137.204.107.153:37339/) 
 
 
 
