@@ -1,5 +1,5 @@
 github:
   is_project_page: false
 theme: jekyll-theme-slate
-title: SUBLIMER
-description: Efficient Self Supervised Metric Information Retrieval: a Bibliography Based Method Applied to COVID Literature
+title: "SUBLIMER"
+description: "Efficient Self Supervised Metric Information Retrieval: a Bibliography Based Method Applied to COVID Literature"
