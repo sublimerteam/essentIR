@@ -16,7 +16,7 @@ SUBLIMER reaches equivalent results to the state-of-the-art on CORD19, which, di
 
 ### WebApp
 
-[SUBLIMER Web Application](http://137.204.107.153:37339/) 
+[SUBLIMER Web Application](http://137.204.107.153:50000/) 
 
 
 
